@@ -1,5 +1,5 @@
 <h1>ASICseer-Pool-Monitor</h1>
-Monitors the activity of CK Pool by parsing and displaying basic operational/status data.<br><br>
+Monitors the activity of ASICseer Pool by parsing and displaying basic operational/status data.<br><br>
 
 <img width="536" height="342" alt="asicseerpoolmonitorV121" src="https://github.com/user-attachments/assets/e8ba4121-2fb1-420c-bd6e-f55a9a43e334" />
 
