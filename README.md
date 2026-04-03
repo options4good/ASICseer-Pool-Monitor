@@ -1,4 +1,4 @@
-<h1>ASICseer-Pool-Monitor</h1>
+<h1>ASICseer Pool Monitor</h1>
 Monitors the activity of ASICseer Pool by parsing and displaying basic operational/status data.<br><br>
 
 <img width="536" height="342" alt="asicseerpoolmonitorV121" src="https://github.com/user-attachments/assets/e8ba4121-2fb1-420c-bd6e-f55a9a43e334" />
@@ -43,12 +43,12 @@ In the terminal perform the below command:<br><br>
 sudo apt update && sudo apt install python3 python3-pip python3-venv -y
 ```
 
-Download the latest ckpoolmonitor.py file from the "Releases" section: https://github.com/options4good/ASICseer-Pool-Monitor/releases<br><br>
+Download the latest asicseerpoolmonitor.py file from the "Releases" section: https://github.com/options4good/ASICseer-Pool-Monitor/releases<br><br>
 
 Start the application from the terminal running the below command:
 
 ```bash
-python3 minerdashboard.py
+python3 asicseerpoolmonitor.py
 ```
 
 <br>
